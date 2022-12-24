@@ -1,6 +1,6 @@
-Console.WriteLine("Enter a n1"); 
+Console.WriteLine("Enter a number1"); 
    int n1=int.Parse(Console.ReadLine()); 
-   Console.WriteLine("Enter a n2"); 
+   Console.WriteLine("Enter a number2"); 
    int n2=int.Parse(Console.ReadLine()); 
    int i, j; 
              
@@ -16,7 +16,6 @@ Console.WriteLine("Enter a n1");
  
                 if (count <= 2) 
                 { Console.WriteLine(i); } 
- 
- 
+
             } 
             Console.ReadKey();
