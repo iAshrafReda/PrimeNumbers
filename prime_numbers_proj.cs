@@ -13,6 +13,7 @@ namespace PerfectNumbers
           Console.WriteLine("enter second number");
           int e=int.Parse(Console.ReadLine());
           int sum = 0;
+          
           for(int x= s; x<= e;x++)
           {
               sum = 0;
