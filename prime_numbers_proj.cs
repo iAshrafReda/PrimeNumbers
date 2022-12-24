@@ -7,10 +7,10 @@ namespace PerfectNumbers
   {
       public static void Main(string[] args)
       {
-          Console.WriteLine("enter first number");
+          Console.WriteLine("enter  number1");
           int s=int.Parse(Console.ReadLine());
         
-          Console.WriteLine("enter second number");
+          Console.WriteLine("enter number2 ");
           int e=int.Parse(Console.ReadLine());
           int sum = 0;
           
